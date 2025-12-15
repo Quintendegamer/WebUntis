@@ -4,6 +4,292 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
+SUMMARY:Business processes
+DTSTART;TZID=Europe/Brussels:20251016T090000
+DTEND;TZID=Europe/Brussels:20251016T110000
+UID:500508-20251016-900@webuntis-sync
+DESCRIPTION:Serneels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
+ a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b 
+ / 1IT_VT_SOF1\n--------------------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programming principles
+DTSTART;TZID=Europe/Brussels:20251016T110000
+DTEND;TZID=Europe/Brussels:20251016T130000
+UID:514572-20251016-1100@webuntis-sync
+DESCRIPTION:Dams\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 
+ 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\n---
+ -----------------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linux
+DTSTART;TZID=Europe/Brussels:20251017T110000
+DTEND;TZID=Europe/Brussels:20251017T130000
+UID:511493-20251017-1100@webuntis-sync
+DESCRIPTION:De Magtige\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1I
+ T4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8
+ b\n--------------------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Databases
+DTSTART;TZID=Europe/Brussels:20251017T140000
+DTEND;TZID=Europe/Brussels:20251017T160000
+UID:504377-20251017-1400@webuntis-sync
+DESCRIPTION:De Pooter\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT
+ 4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b
+ \n--------------------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IoT experiments
+DTSTART;TZID=Europe/Brussels:20251020T110000
+DTEND;TZID=Europe/Brussels:20251020T130000
+UID:509642-20251020-1100@webuntis-sync
+DESCRIPTION:Luyts\n1IT3a\n--------------------\nℹ️ Labo
+LOCATION:01.19.ELL (21) Labo Elektronica en Elektriciteit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital fundamentals
+DTSTART;TZID=Europe/Brussels:20251020T130000
+DTEND;TZID=Europe/Brussels:20251020T140000
+UID:1128733-20251020-1300@webuntis-sync
+DESCRIPTION:Van Merode\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1I
+ T4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8
+ b\n--------------------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open labo IT
+DTSTART;TZID=Europe/Brussels:20251020T170000
+DTEND;TZID=Europe/Brussels:20251020T190000
+UID:1142391-20251020-1700@webuntis-sync
+DESCRIPTION:Van Merode\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1I
+ T4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8
+ b
+LOCATION:01.04.ELL (30) Embedded Elektronica
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web technology
+DTSTART;TZID=Europe/Brussels:20251021T090000
+DTEND;TZID=Europe/Brussels:20251021T110000
+UID:523363-20251021-900@webuntis-sync
+DESCRIPTION:Michiels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
+ a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
+ n--------------------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web technology
+DTSTART;TZID=Europe/Brussels:20251021T110000
+DTEND;TZID=Europe/Brussels:20251021T130000
+UID:523633-20251021-1100@webuntis-sync
+DESCRIPTION:Verhulst\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
+LOCATION:03.002.NOO (50) leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programming principles
+DTSTART;TZID=Europe/Brussels:20251021T140000
+DTEND;TZID=Europe/Brussels:20251021T160000
+UID:514164-20251021-1400@webuntis-sync
+DESCRIPTION:Dams\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
+LOCATION:03.09.ELL (30) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital fundamentals
+DTSTART;TZID=Europe/Brussels:20251021T160000
+DTEND;TZID=Europe/Brussels:20251021T170000
+UID:505544-20251021-1600@webuntis-sync
+DESCRIPTION:Van Merode\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1I
+ T4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8
+ b\n--------------------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data networks
+DTSTART;TZID=Europe/Brussels:20251022T090000
+DTEND;TZID=Europe/Brussels:20251022T110000
+UID:503159-20251022-900@webuntis-sync
+DESCRIPTION:Horsmans\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
+ a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
+ n--------------------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linux
+DTSTART;TZID=Europe/Brussels:20251022T110000
+DTEND;TZID=Europe/Brussels:20251022T130000
+UID:510959-20251022-1100@webuntis-sync
+DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
+ o
+LOCATION:01.16/01.17.ELL (76) Projectlokaal DVG & GDM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital fundamentals
+DTSTART;TZID=Europe/Brussels:20251022T140000
+DTEND;TZID=Europe/Brussels:20251022T160000
+UID:505646-20251022-1400@webuntis-sync
+DESCRIPTION:Van Loo\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
+LOCATION:03.04.ELL (48) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Databases
+DTSTART;TZID=Europe/Brussels:20251022T160000
+DTEND;TZID=Europe/Brussels:20251022T180000
+UID:504569-20251022-1600@webuntis-sync
+DESCRIPTION:De Pooter\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
+LOCATION:03.08.ELL (40) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business processes
+DTSTART;TZID=Europe/Brussels:20251023T090000
+DTEND;TZID=Europe/Brussels:20251023T110000
+UID:500514-20251023-900@webuntis-sync
+DESCRIPTION:Serneels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
+ a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b 
+ / 1IT_VT_SOF1\n--------------------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programming principles
+DTSTART;TZID=Europe/Brussels:20251023T110000
+DTEND;TZID=Europe/Brussels:20251023T130000
+UID:514578-20251023-1100@webuntis-sync
+DESCRIPTION:Dams\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 
+ 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\n---
+ -----------------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data networks
+DTSTART;TZID=Europe/Brussels:20251023T140000
+DTEND;TZID=Europe/Brussels:20251023T160000
+UID:503075-20251023-1400@webuntis-sync
+DESCRIPTION:Horsmans\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
+LOCATION:03.12.ELL (48) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discover IT
+DTSTART;TZID=Europe/Brussels:20251024T110000
+DTEND;TZID=Europe/Brussels:20251024T130000
+UID:1134018-20251024-1100@webuntis-sync
+DESCRIPTION:Van Eyken\n1IT3a / 1IT3b / 1IT5a / 1IT5b\n--------------------
+ \nℹ️ Labo
+LOCATION:01.09.ELL (90) Projectlokaal DVG & GDM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web technology
+DTSTART;TZID=Europe/Brussels:20251103T130000
+DTEND;TZID=Europe/Brussels:20251103T150000
+UID:1134628-20251103-1300@webuntis-sync
+DESCRIPTION:Dams / De Vos / Michiels / Verhulst\n1IT1a / 1IT1b / 1IT2a / 1
+ IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT
+ 7a / 1IT7b / 1IT8a / 1IT8b\n--------------------\nℹ️ Tussentijdse toet
+ s - vaardigheid
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital fundamentals
+DTSTART;TZID=Europe/Brussels:20251105T090000
+DTEND;TZID=Europe/Brussels:20251105T110000
+UID:1139746-20251105-900@webuntis-sync
+DESCRIPTION:Luyckx / Luyts / Van Grieken / Van Merode / Vander Vennet\n1IT
+ 1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b
+  / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\n--------------------\n
+ ℹ️ Theorie | Tussentijdse toets- vaardigheid
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programming principles
+DTSTART;TZID=Europe/Brussels:20251107T090000
+DTEND;TZID=Europe/Brussels:20251107T100000
+UID:1139752-20251107-900@webuntis-sync
+DESCRIPTION:Dams / Peeters / Van Camp / Van Merode\n1IT1a / 1IT1b / 1IT2a 
+ / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 
+ 1IT7a / 1IT7b / 1IT8a / 1IT8b\n--------------------\nℹ️ Tussentijdse t
+ oets - kennis- en inzicht
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data networks
+DTSTART;TZID=Europe/Brussels:20251112T090000
+DTEND;TZID=Europe/Brussels:20251112T110000
+UID:503165-20251112-900@webuntis-sync
+DESCRIPTION:Horsmans\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
+ a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
+ n--------------------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
+ 4) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linux
+DTSTART;TZID=Europe/Brussels:20251112T110000
+DTEND;TZID=Europe/Brussels:20251112T130000
+UID:510965-20251112-1100@webuntis-sync
+DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
+ o
+LOCATION:02.07_B.VIA (38) Theorielokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web technology
+DTSTART;TZID=Europe/Brussels:20251112T140000
+DTEND;TZID=Europe/Brussels:20251112T160000
+UID:523639-20251112-1400@webuntis-sync
+DESCRIPTION:Verhulst\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
+LOCATION:03.05.ELL (49) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Databases
+DTSTART;TZID=Europe/Brussels:20251112T160000
+DTEND;TZID=Europe/Brussels:20251112T180000
+UID:504575-20251112-1600@webuntis-sync
+DESCRIPTION:De Pooter\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
+LOCATION:03.05.ELL (49) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programming principles
+DTSTART;TZID=Europe/Brussels:20251113T110000
+DTEND;TZID=Europe/Brussels:20251113T130000
+UID:514584-20251113-1100@webuntis-sync
+DESCRIPTION:Dams\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 
+ 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\n---
+ -----------------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programming principles
+DTSTART;TZID=Europe/Brussels:20251113T140000
+DTEND;TZID=Europe/Brussels:20251113T160000
+UID:1108772-20251113-1400@webuntis-sync
+DESCRIPTION:Dams\n1IT1a / 1IT1b / 1IT3a / 1IT3b / 1IT4a / 1IT4b\n---------
+ -----------\nℹ️ Labo
+LOCATION:00.02.ELL (92) Theorielokaal\, 00.03.ELL (55) Projectlokaal DVG &
+  GDM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discover IT
+DTSTART;TZID=Europe/Brussels:20251114T090000
+DTEND;TZID=Europe/Brussels:20251114T180000
+UID:506327-20251114-900@webuntis-sync
+DESCRIPTION:Binnemans / Casteels / Charpentier / Michiels / Peeters / Van 
+ Eyken / Vanhulle\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 
+ 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\n---
+ -----------------\nℹ️ Discover Day
+LOCATION:01.06.ELL (24) Gaming & VR\, 01.08_1.ELL (144) Aula\, 01.08_2.ELL
+  (125) Aula\, 01.08_3.ELL (144) Aula
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Discover IT
 DTSTART;TZID=Europe/Brussels:20251117T140000
 DTEND;TZID=Europe/Brussels:20251117T160000
