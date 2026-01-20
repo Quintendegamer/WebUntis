@@ -448,7 +448,7 @@ DTEND;TZID=Europe/Brussels:20251215T130000
 UID:1197511-20251215-1100@webuntis-sync
 DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
  o
-LOCATION:02.06_B.VIA (38) Theorielokaal
+LOCATION:02.06_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open labo IT
@@ -478,7 +478,7 @@ DTEND;TZID=Europe/Brussels:20251216T130000
 UID:1269353-20251216-1100@webuntis-sync
 DESCRIPTION:De Vos / Verhulst\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT
  3b / 1IT5a / 1IT5b\n--------------------\nℹ️ Labo
-LOCATION:01.34.VIA (220) aula
+LOCATION:01.34.VIA (220) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IoT experiments
