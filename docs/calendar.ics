@@ -9,7 +9,7 @@ DTSTART;TZID=Europe/Brussels:20260202T110000
 DTEND;TZID=Europe/Brussels:20260202T130000
 UID:511601-20260202-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -90,7 +90,7 @@ DTSTART;TZID=Europe/Brussels:20260209T110000
 DTEND;TZID=Europe/Brussels:20260209T130000
 UID:511607-20260209-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -204,7 +204,7 @@ DTSTART;TZID=Europe/Brussels:20260223T110000
 DTEND;TZID=Europe/Brussels:20260223T130000
 UID:511613-20260223-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -329,7 +329,7 @@ DTSTART;TZID=Europe/Brussels:20260302T110000
 DTEND;TZID=Europe/Brussels:20260302T130000
 UID:511619-20260302-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -435,7 +435,7 @@ DTSTART;TZID=Europe/Brussels:20260309T110000
 DTEND;TZID=Europe/Brussels:20260309T130000
 UID:511625-20260309-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -552,7 +552,7 @@ DTSTART;TZID=Europe/Brussels:20260316T110000
 DTEND;TZID=Europe/Brussels:20260316T130000
 UID:511631-20260316-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -658,7 +658,7 @@ DTSTART;TZID=Europe/Brussels:20260323T110000
 DTEND;TZID=Europe/Brussels:20260323T130000
 UID:511637-20260323-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -771,7 +771,7 @@ DTSTART;TZID=Europe/Brussels:20260330T110000
 DTEND;TZID=Europe/Brussels:20260330T130000
 UID:511643-20260330-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -867,7 +867,7 @@ DTSTART;TZID=Europe/Brussels:20260420T110000
 DTEND;TZID=Europe/Brussels:20260420T130000
 UID:511649-20260420-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -992,7 +992,7 @@ DTSTART;TZID=Europe/Brussels:20260427T110000
 DTEND;TZID=Europe/Brussels:20260427T130000
 UID:511655-20260427-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -1080,7 +1080,7 @@ DTSTART;TZID=Europe/Brussels:20260504T110000
 DTEND;TZID=Europe/Brussels:20260504T130000
 UID:511661-20260504-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -1205,7 +1205,7 @@ DTSTART;TZID=Europe/Brussels:20260511T110000
 DTEND;TZID=Europe/Brussels:20260511T130000
 UID:511667-20260511-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -1274,7 +1274,7 @@ DTSTART;TZID=Europe/Brussels:20260518T110000
 DTEND;TZID=Europe/Brussels:20260518T130000
 UID:511673-20260518-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
